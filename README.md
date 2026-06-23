@@ -126,7 +126,7 @@ Khi hoàn tất, trình duyệt web của bạn sẽ tự động mở trang ứ
 
 ---
 
-## 📂 Cấu trúc mã nguồn của `app2.py`
+## 📂 Cấu trúc mã nguồn của `app1.py`
 
 * **Streamlit Config & Premium CSS Styling (Dòng 35-172):** Định cấu hình ứng dụng, chèn CSS tùy chỉnh giao diện tối, hiệu ứng nhấp nháy trạng thái và cấu trúc giao diện glassmorphism.
 * **Cached Resource Loaders (Dòng 185-273):**
