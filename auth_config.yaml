@@ -1,0 +1,23 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@hsu.edu.vn
+      name: Quản trị viên HSU
+      password: "$2b$12$SsGs3wFkUqlQ5m8Vb9pSreFw/znazZcle7ony3R7lz.Mjw3f.3982"
+      role: admin
+    giaovien:
+      email: giaovien@hsu.edu.vn
+      name: Giáo viên HSU
+      password: "$2b$12$xierYgUMRg5DvztdLeSHAuVBRXKZSAyysIqBvx2Ee8LWEgEycnQgi"
+      role: user
+    sinhvien:
+      email: sinhvien@hsu.edu.vn
+      name: Sinh viên HSU
+      password: "$2b$12$Wx911shy7zyrk05mLmLoQOLZQ/ST8gNtAYv7ozarTcqOLPIZOYyhq"
+      role: guest
+
+cookie:
+  expiry_days: 1
+  key: hsu_chatbot_secret_key_2025_abc
+  name: hsu_auth_cookie
+####Nó là mật khẩu đã được băm (hash) bằng thuật toán bcrypt
